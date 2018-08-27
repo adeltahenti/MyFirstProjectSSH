@@ -15,3 +15,8 @@
 ```javascript
 const express = require('express');
 ```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
