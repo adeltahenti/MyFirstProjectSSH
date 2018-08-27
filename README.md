@@ -1,7 +1,6 @@
 # Test for ssh key
 
 ## Lists
-_____
 
 1. Test 1
 1. Test 2
@@ -12,7 +11,6 @@ _____
 * ...
 
 ## Code Syntax
-----
 
 ```javascript
 const express = require('express');
